@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 html, body{
     background-color: #ddd;
 }
+/** Obs.: Não foi colocado as cores como variável, pois não foi reconhecido no Live Server **/
 header{
     background-color: #4d41c0;
     color: #fff;
